@@ -161,4 +161,4 @@ bot.on('message', message => {
 
  })
 
- client.login('process.env.Mzc5MTg0ODE2MDY5MDE3NjAx.DOmW5Q.C2VnlKyihxpe63kfOjupfjdJuDQ');
+ client.login('process.env.Mzc5MTg0ODE2MDY5MDE3NjAx.DPHjWg.lPbOG2Tk9QbDIhTnsCEZUfqSHfE');
